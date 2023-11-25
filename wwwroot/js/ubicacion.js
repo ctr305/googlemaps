@@ -5,7 +5,7 @@ let longitud = -96.9271873;
 
 let latitudHome;
 let longitudHome;
-let transportesSelect = document.getElementById("Transportes");
+let transportesSelect = document.getElementById("Transporte");
 let rutaCheck = document.getElementById("#Ruta");
 let directionsRenderer = new google.maps.DirectionsRenderer();
 
