@@ -94,3 +94,14 @@ function distancia() {
         directionsRenderer.setMap(null);
     }
 }
+
+[transportesSelect, rutaCheck].forEach((item) => {
+    item.addEventListener("change", () => {
+        distancia();
+    });
+});
+
+$(function () {
+    dibujaMapa();
+    miUbicacion();
+});
