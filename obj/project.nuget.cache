@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMjnS6sEWpg7XgH5SSk7p0bVSe2m4bPLaPHIw4xGt33sAcgsc2O0A2zovI5Gk1Q+MnBoAS+3jv+NvFHUjUfE2A==",
+  "success": true,
+  "projectFilePath": "/media/HDD/Tareas Séptimo Semestre/Desarrollo de Sistemas Web/googlemaps/googlemaps.csproj",
+  "expectedPackageFiles": [
+    "/home/ctr305/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

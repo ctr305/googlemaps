@@ -1,0 +1,49 @@
+/* _content/googlemaps/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-n25wz1hj47] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-n25wz1hj47] {
+  color: #0077cc;
+}
+
+.btn-primary[b-n25wz1hj47] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-n25wz1hj47], .nav-pills .show > .nav-link[b-n25wz1hj47] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-n25wz1hj47] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-n25wz1hj47] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-n25wz1hj47] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-n25wz1hj47] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-n25wz1hj47] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
