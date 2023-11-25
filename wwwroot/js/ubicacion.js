@@ -9,6 +9,9 @@ let transportesSelect = document.getElementById("Transporte");
 let rutaCheck = document.getElementById("#Ruta");
 let directionsRenderer = new google.maps.DirectionsRenderer();
 
+console.log(transportesSelect);
+console.log(rutaCheck);
+
 function dibujaMapa() {
     mapa = $("#mapa").locationpicker({
         location: { latitude: latitud, longitude: longitud },
